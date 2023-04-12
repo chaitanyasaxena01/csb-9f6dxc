@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "https://chaitanyasaxena01.github.io/csb-9f6dxc/static/css/main.e5797794.chunk.css",
+    "main.js": "https://chaitanyasaxena01.github.io/csb-9f6dxc/static/js/main.ebd7e669.chunk.js",
+    "main.js.map": "https://chaitanyasaxena01.github.io/csb-9f6dxc/static/js/main.ebd7e669.chunk.js.map",
+    "runtime-main.js": "https://chaitanyasaxena01.github.io/csb-9f6dxc/static/js/runtime-main.fc6672bd.js",
+    "runtime-main.js.map": "https://chaitanyasaxena01.github.io/csb-9f6dxc/static/js/runtime-main.fc6672bd.js.map",
+    "static/js/2.30cfe790.chunk.js": "https://chaitanyasaxena01.github.io/csb-9f6dxc/static/js/2.30cfe790.chunk.js",
+    "static/js/2.30cfe790.chunk.js.map": "https://chaitanyasaxena01.github.io/csb-9f6dxc/static/js/2.30cfe790.chunk.js.map",
+    "index.html": "https://chaitanyasaxena01.github.io/csb-9f6dxc/index.html",
+    "static/css/main.e5797794.chunk.css.map": "https://chaitanyasaxena01.github.io/csb-9f6dxc/static/css/main.e5797794.chunk.css.map",
+    "static/js/2.30cfe790.chunk.js.LICENSE.txt": "https://chaitanyasaxena01.github.io/csb-9f6dxc/static/js/2.30cfe790.chunk.js.LICENSE.txt",
+    "static/media/1.509d4d79.jpg": "https://chaitanyasaxena01.github.io/csb-9f6dxc/static/media/1.509d4d79.jpg",
+    "static/media/2.bbb41348.jpg": "https://chaitanyasaxena01.github.io/csb-9f6dxc/static/media/2.bbb41348.jpg",
+    "static/media/5.46b37290.jpg": "https://chaitanyasaxena01.github.io/csb-9f6dxc/static/media/5.46b37290.jpg",
+    "static/media/6.c405c822.jpg": "https://chaitanyasaxena01.github.io/csb-9f6dxc/static/media/6.c405c822.jpg",
+    "static/media/8.9d1ddd2c.jpg": "https://chaitanyasaxena01.github.io/csb-9f6dxc/static/media/8.9d1ddd2c.jpg",
+    "static/media/night.ac6d287d.jpg": "https://chaitanyasaxena01.github.io/csb-9f6dxc/static/media/night.ac6d287d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc6672bd.js",
+    "static/js/2.30cfe790.chunk.js",
+    "static/css/main.e5797794.chunk.css",
+    "static/js/main.ebd7e669.chunk.js"
+  ]
+}
